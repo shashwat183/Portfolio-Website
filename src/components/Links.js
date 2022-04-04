@@ -7,10 +7,10 @@ function Links() {
     <div className="links-container">
       <h1>Social Links</h1>
       <div className='links-icons'>
-        <FontAwesomeIcon icon={faGithub} className="icon" />
-        <FontAwesomeIcon icon={faLinkedin} className="icon" />
-        <FontAwesomeIcon icon={faFacebook} className="icon" />
-        <FontAwesomeIcon icon={faMedium} className="icon" />
+        <FontAwesomeIcon icon={faGithub} className="links-icon" />
+        <FontAwesomeIcon icon={faLinkedin} className="links-icon" />
+        <FontAwesomeIcon icon={faFacebook} className="links-icon" />
+        <FontAwesomeIcon icon={faMedium} className="links-icon" />
       </div>
     </div>
   );
