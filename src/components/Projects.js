@@ -4,8 +4,8 @@ import {faCode, faSquareArrowUpRight} from '@fortawesome/free-solid-svg-icons';
 
 function Projects() {
   return (
-    <div className="projects-container">
-    <h1><a name="Projects">Projects</a></h1>
+    <div className="projects-container" id="Projects">
+    <h1>Projects</h1>
       <div className="project">
         <h2>Rapid Notes</h2>
         <p>Note taking app built using Angular Frontend with a Firebase backend.

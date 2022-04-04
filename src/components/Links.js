@@ -4,8 +4,8 @@ import {faGithub, faLinkedin, faFacebook, faMedium} from '@fortawesome/free-bran
 
 function Links() {
   return (
-    <div className="links-container">
-      <h1><a name="Links">Social Links</a></h1>
+    <div className="links-container" id="Links">
+      <h1>Social Links</h1>
       <div className='links-icons'>
         <a href='https://github.com/shashwat183'>
           <FontAwesomeIcon icon={faGithub} className="links-icon" />

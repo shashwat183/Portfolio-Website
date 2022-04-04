@@ -4,8 +4,7 @@ import {faFileArrowDown} from '@fortawesome/free-solid-svg-icons';
 
 function DownloadCV() {
   return (
-  <div className="download-cv-container">
-    <a name="CV"></a>
+  <div className="download-cv-container" id="CV">
     <button>
       <FontAwesomeIcon icon={faFileArrowDown} /> Download CV
     </button>
