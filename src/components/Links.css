@@ -8,6 +8,12 @@
   color: white;
 }
 
+.links-icon {
+  display: block;
+  font-size: 200%;
+  color: #6A0F49;
+}
+
 .links-icons {
   display: flex;
   justify-content: space-around;
