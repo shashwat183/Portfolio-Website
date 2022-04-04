@@ -1,0 +1,31 @@
+.header {
+  overflow: hidden;
+  background-color: inherit;
+  padding: 0.5% 3%;
+}
+
+.header h1 {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-size: 25px;
+  line-height: 25px;
+  border-radius: 4px;
+}
+
+.header a {
+  float: left;
+  color: #9c9fa8;
+  text-align: center;
+  padding: 10px;
+  font-size: 15px;
+  line-height: 25px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.header-right {
+  float: right;
+  margin: 10.05px 10.05px;
+}

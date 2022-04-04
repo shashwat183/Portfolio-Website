@@ -1,0 +1,11 @@
+.download-cv-container {
+  background-color: #151515;
+}
+
+.download-cv-container button {
+  background-color: #6A0F49;
+  border: none;
+  padding: 15px;
+  border-radius: 10px;
+  margin: 50px;
+}

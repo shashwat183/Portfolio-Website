@@ -1,0 +1,36 @@
+.personal-details-container {
+  display: flex;
+  align-items: center;
+  background-color: inherit;
+  padding: 7% 10%;
+}
+
+.personal-details-container h1 {
+  text-align: left;
+  color: white;
+}
+
+.personal-details-container h3 {
+  text-align: left;
+  color: #9c9fa8;
+  font-weight: normal;
+}
+
+.personal-details-container button {
+  background-color: #6A0F49;
+  border: none;
+  padding: 15px;
+  border-radius: 10px;
+  margin-top: 30px;
+}
+
+.personal-details-container img {
+  width: 25%;
+  border: 30px solid #151515;
+  border-radius: 10px;
+}
+
+.personal-details {
+  width: 60%;
+  margin: auto;
+}
