@@ -12,7 +12,7 @@ function PersonalDetails() {
           interest me include APIs, Frontend, Crypto, Cloud etc.</h3> 
         <button>Keep Reading</button>
       </div>
-      <img src={portfolio}></img>
+      <img src={portfolio} alt="Me in a pub"></img>
     </div>
   );
 }
