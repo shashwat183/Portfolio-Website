@@ -14,7 +14,9 @@ function Footer() {
     <div className="contact-section">
       <p>
         <div className='contact-heading'>Contact</div>
-        <FontAwesomeIcon icon={faEnvelopeCircleCheck}/>  shashwat183@gmail.com
+        <a href='mailto:shashwat183@gmail.com'>
+          <FontAwesomeIcon icon={faEnvelopeCircleCheck}/>  shashwat183@gmail.com
+        </a> 
       </p>
     </div>
   </div>
