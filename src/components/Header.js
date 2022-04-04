@@ -1,13 +1,23 @@
 import './Header.css';
+import { Link } from 'react-scroll';
 
 function Header() {
   return (
-  <div className="header">
+  <div className="header" id="Home">
     <h1>Shashwat Pragya</h1>
     <div className='header-right'>
-      <a href='#home'>Home</a>
-      <a href='#projects'>Projects</a>
-      <a href='#CV'>CV</a>
+      <Link to='Home' smooth={true} className="header-link">
+        Home
+      </Link>
+      <Link to='Projects' smooth={true} className="header-link">
+        Projects
+      </Link>
+      <Link to='CV' smooth={true} className="header-link">
+        CV
+      </Link>
+      <Link to='Links' smooth={true} className="header-link">
+        Social Links
+      </Link>
     </div>
   </div>
   );

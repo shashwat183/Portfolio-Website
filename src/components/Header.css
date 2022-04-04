@@ -14,7 +14,7 @@
   border-radius: 4px;
 }
 
-.header a {
+.header-link {
   float: left;
   color: #9c9fa8;
   text-align: center;
@@ -23,6 +23,7 @@
   line-height: 25px;
   border-radius: 4px;
   text-decoration: none;
+  cursor: pointer;
 }
 
 .header-right {
