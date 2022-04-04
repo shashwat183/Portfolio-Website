@@ -1,0 +1,41 @@
+.projects-container {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: inherit;
+  padding: 5% 10%;
+  height: 100%;
+}
+
+.projects-container h1 {
+  width: 100%;
+  color: white;
+}
+
+.project {
+  width: 30%;
+  padding: 2% 10%;
+}
+
+.project h2 {
+  color: white;
+  text-align: left;
+}
+
+.project p {
+  text-align: left;
+  color: #9c9fa8;
+}
+
+.icon {
+  display: block;
+  font-size: 150%;
+  color: #6A0F49;
+  /* color: white; */
+}
+
+.project-icons {
+  display: flex;
+  gap: 10px;
+  align-items: left;
+}

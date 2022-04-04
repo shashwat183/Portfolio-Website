@@ -3,7 +3,7 @@
 ## Rapid Notes
 
 Note taking app built using Angular Frontend with a Firebase backend.
-Auth mamaged using OAuth2.0.
+Auth managed using OAuth2.0.
 Deployed using Firebase.
 Github URL -> https://github.com/RapidNotes/RapidNotesUI
 
