@@ -4,7 +4,7 @@ import { Link } from 'react-scroll';
 
 function PersonalDetails() {
   return (
-    <div className="personal-details-container" id="Home">
+    <div className="personal-details-container">
       <div className='personal-details'>
         <h1>Hi, I'm Shashwat.</h1>
         <h3>Professional Software Developer from Manchester UK. Experienced in 
