@@ -8,7 +8,9 @@ function Footer() {
     <div className="by-section">
       <p> Designed and Developed by Shashwat Pragya<br/ >
         Built using React and Google Firebase<br />
-        Checkout the code  <FontAwesomeIcon icon={faCode}/>
+        <a href='https://github.com/shashwat183/Portfolio-Website'>
+          Checkout the code  <FontAwesomeIcon icon={faCode}/>
+        </a>
       </p>
     </div>
     <div className="contact-section">
